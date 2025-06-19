@@ -1,0 +1,8 @@
+{
+  "n_dim":    2,
+  "V_str":    "x0**6 + 4*pi*(sin(x0))**2 - 2*sinh(x0)",
+  "L":        1.0,
+  "num_pts":  25,
+  "num_eigs": 6,
+  "chosen": [ "FDM", "RK4" ]
+}
